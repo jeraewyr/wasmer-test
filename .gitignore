@@ -2,7 +2,6 @@
 x64/
 *.vcxproj.user
 
-
 # Prerequisites
 *.d
 
@@ -35,3 +34,6 @@ x64/
 *.exe
 *.out
 *.app
+
+#
+!libs/wasmer/**
